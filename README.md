@@ -4,7 +4,7 @@ I'm Germain, flutter developer and student at EPSI Bordeaux
 
 ## Favourite projects
 
-### [AirHere] (https://github.com/Germain-L/AirHere AirHere repo)
+### [AirHere](https://github.com/Germain-L/AirHere "AirHere repo")
  - Real time air quality application, developped as part of a final year A-Level project
  - 
 
