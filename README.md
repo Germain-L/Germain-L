@@ -2,6 +2,14 @@
 
 I'm Germain, flutter developer and student at EPSI Bordeaux
 
+## Favourite projects
+
+### AirHere (https://github.com/anuraghazra/github-readme-stats)
+Real time air quality application, developped as part of a final year A-Level project
+
+### FingSwipe
+Arcade puzzle game, winner and of EPSI Bordeaux B1 workshop
+
 
 [![Germain's github stats](https://github-readme-stats.vercel.app/api?username=Germain-L)](https://github.com/anuraghazra/github-readme-stats)
 
