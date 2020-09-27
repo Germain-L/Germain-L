@@ -1,5 +1,8 @@
 # Hi there 👋
 
+I'm Germain, flutter developer and student at EPSI Bordeaux
+
+
 [![Germain's github stats](https://github-readme-stats.vercel.app/api?username=Germain-L)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
