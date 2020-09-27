@@ -4,8 +4,9 @@ I'm Germain, flutter developer and student at EPSI Bordeaux
 
 ## Favourite projects
 
-### [AirHere (https://github.com/Germain-L/AirHere AirHere repo)]
-Real time air quality application, developped as part of a final year A-Level project
+### [AirHere] (https://github.com/Germain-L/AirHere AirHere repo)
+ - Real time air quality application, developped as part of a final year A-Level project
+ - 
 
 ### [FingSwipe (https://github.com/Germain-L/WORKSHOP-B1) FingSwipe repo]
 Arcade puzzle game, winner and of EPSI Bordeaux B1 workshop
