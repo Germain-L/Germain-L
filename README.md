@@ -12,7 +12,7 @@ Real time air quality application, developped as part of a final year A-Level pr
 ### [FingSwipe](https://github.com/Germain-L/WORKSHOP-B1 "FingSwipe repo")
 
 Arcade puzzle game, winner of EPSI Bordeaux B1 workshop
-> [Download apk here, awaiting play store validation](https://www.fingswipe.app "fingswipe.app")
+> [Download here](https://play.google.com/store/apps/details?id=com.germainleignel.fingSwipeV2 "fingswipe")
 
 ## Stats
 [![Germain's github stats](https://github-readme-stats.vercel.app/api?username=Germain-L)](https://github.com/anuraghazra/github-readme-stats)
