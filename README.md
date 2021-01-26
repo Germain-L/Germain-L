@@ -21,7 +21,7 @@ Simple front page made with vue
  > [front page](https://another-todo-app-48832.web.app/)
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=Germain-L&count_private=true&show_icons=true&theme=radial)
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=Gman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=Gman)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Germain-L/Germain-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
