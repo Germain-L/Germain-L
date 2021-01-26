@@ -20,8 +20,8 @@ Todo app made with flutter and firebase
 Simple front page made with vue
  > [front page](https://another-todo-app-48832.web.app/)
 ## Stats
-[![Germain's github stats](https://github-readme-stats.vercel.app/api?username=Germain-L)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api?username=Germain-L&count_private=true&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Germain-L&count_private=true&show_icons=true&theme=radial)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=Germain-L)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Germain-L/Germain-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
