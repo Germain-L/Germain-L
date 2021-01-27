@@ -4,6 +4,11 @@ I'm Germain, flutter developer and student at EPSI Bordeaux
 
 ## Favourite projects
 
+### [Another Todo](https://github.com/Germain-L/another_todo_app)
+Todo app made with flutter and firebase
+Simple front page made with vue
+ > [front page](https://another-todo-app-48832.web.app/)
+
 ### [AirHere](https://github.com/Germain-L/AirHere "AirHere repo")
 
 Real time air quality application, developped as part of a final year A-Level project
@@ -14,11 +19,7 @@ Real time air quality application, developped as part of a final year A-Level pr
 Arcade puzzle game, winner of EPSI Bordeaux B1 workshop
 > [Download here](https://play.google.com/store/apps/details?id=com.germainleignel.fingSwipeV2 "fingswipe")
 
-### [Another Todo](https://github.com/Germain-L/another_todo_app)
 
-Todo app made with flutter and firebase
-Simple front page made with vue
- > [front page](https://another-todo-app-48832.web.app/)
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=Germain-L&count_private=true&show_icons=true&theme=radial)
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=Gman)](https://github.com/anuraghazra/github-readme-stats)
