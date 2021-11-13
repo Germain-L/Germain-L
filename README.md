@@ -1,8 +1,13 @@
 # Hi there 👋
 
-I'm Germain, flutter developer and student at EPSI Bordeaux
+I'm Germain, developer and student at EPSI Bordeaux
 
 ## Favourite projects
+
+### [Daily](https://github.com/germain-l/daily)
+Currently under developpment, daily is a tracker app to rate each day
+Built with Go and the Fiber framework for the backend
+Frontend technology has not yet been decided
 
 ### [Another Todo](https://github.com/Germain-L/another_todo_app)
 Todo app made with flutter and firebase
