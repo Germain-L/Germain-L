@@ -2,7 +2,7 @@
 
 I'm Germain, developer and student at EPSI Bordeaux
 
-You can find all the code written for my cours [here](https://github.com/germain-l/epsi)
+You can find all the code written for my course [here](https://github.com/germain-l/epsi)
 
 ## Favourite projects
 
