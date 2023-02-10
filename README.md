@@ -6,6 +6,9 @@ You can find all the code written for my course [here](https://github.com/germai
 
 ## Favourite projects
 
+### [GIF React bot](https://github.com/Germain-L/react-discord-bot)
+Reply with a random gif on discord
+
 ### [Daily](https://github.com/germain-l/daily)
 Currently under developpment, daily is a tracker app to rate each day
 Built with Go and the Fiber framework for the backend
