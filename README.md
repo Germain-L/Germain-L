@@ -33,6 +33,8 @@ Arcade puzzle game, winner of EPSI Bordeaux B1 workshop
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=Germain-L&count_private=true&show_icons=true&theme=radial)
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=Gman)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://app.daily.dev/GMN"><img src="https://api.daily.dev/devcards/e5a5f0929a1d42649f8b7f02255be2a1.png?r=aqr" width="400" alt="Ben's Dev Card"/></a>
 <!--
 **Germain-L/Germain-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
